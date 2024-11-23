@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Boris Huezo!
 
 I have over 3 years of experience as a frontend developer, actively working with various JavaScript frameworks and libraries, including React, NextJS, AstroJS, Gatsby, NestJS, Express, and Node. I collaborate closely with my colleagues, providing support through pair-programming and helping them understand complex concepts. I thrive in team environments, ensuring clear communication to achieve our shared goals.
 
