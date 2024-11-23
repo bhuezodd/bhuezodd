@@ -36,12 +36,6 @@ Here are the tools and technologies I have experience with:
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuezodd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuezodd&layout=compact&theme=radical)
-
----
-
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/boris-huezo-a913661ba)  
 - 📧 Email: [huezo.dev@gmail.com](mailto:huezo.dev@gmail.com)
